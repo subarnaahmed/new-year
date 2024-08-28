@@ -1,0 +1,22 @@
+div {
+    width: 300px;
+    padding: 10px;
+    margin: 20px;
+    background-color: violet;
+    text-align: right;
+    text-align: justify;
+    display: inline block;
+    font-size: 20px;
+    display: flex;
+
+
+    
+   
+
+}
+span {
+    display: block;
+    background-color: violet;
+    font-size: 20px;
+    display: none;
+}
